@@ -1,0 +1,6 @@
+{
+  "name": "BloodBridge",
+  "description": "Real-Time Blood Bank Demand Matching platform connecting verified hospital demand with compatible inventory and targeted donor fallback in real time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
